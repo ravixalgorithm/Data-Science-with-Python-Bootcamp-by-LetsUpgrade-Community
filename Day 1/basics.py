@@ -95,8 +95,8 @@ print(type(tuple2))
 dic1={"ravi":"SDE","algorithm":"Artist"}
 print(dic1)
 print(dic1["ravi"])
-
 print(dic1["algorithm"])
+
 dic1["ravi"]="Data Scientist"
 print(dic1["ravi"])
 
